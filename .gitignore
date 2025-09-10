@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# macOS & system files
+.DS_Store
+
+# VSCode / PyCharm
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Build / distribution
+build/
+dist/
+*.egg-info/
